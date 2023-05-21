@@ -1,0 +1,19 @@
+{
+  "name": "redis-move",
+  "version": "0.0.1",
+  "description": "one move redis script",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^1.5.0",
+    "ioredis": "^5.3.2",
+    "redis": "^4.6.6"
+  },
+  "scripts": {
+    "test": "node simple"
+  },
+
+  "keywords": [
+    "redis"
+  ]
+
+}
